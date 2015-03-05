@@ -1,6 +1,8 @@
 # DataExtract
 Comment extraire et traiter de la donnée depuis le web
 
+Beaucoup de tâches d'automatisation de notre quotidien fonctionnent à partir d'Internet, il paraissait donc intéressant de tester les fonctionnalités de Python via des exercices simples mais pratiques, et surtout à la portée de tous.
+
 L'idée venait de manipuler de la donnée de prix (boncoin, voyages and co) et de montrer la simplicité de l'implémentation 
 de tels procédés.
 On cherche ainsi à récupérer du contenu :
@@ -13,3 +15,5 @@ Beaucoup de sites offrent des API mais l'idée était ici plutot d'aller vers le
 
 Enfin, une fois ces différentes fonctionnalités mises en place, on cherchera à rendre le code plus efficient et à l'exploiter :
 - ex arbitrage entre prix instantanés (paris sportifs en ligne, marchés actions etc)
+- comparateur de prix
+- publication sur les réseaux sociaux (Twitter?)
