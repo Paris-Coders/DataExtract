@@ -1,0 +1,3 @@
+quelques pistes pour la connexion à une base sql
+
+http://www.tutorialspoint.com/python/python_database_access.htm
